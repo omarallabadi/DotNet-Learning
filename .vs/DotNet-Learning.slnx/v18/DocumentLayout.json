@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFAD943-B1BA-412E-A52D-D802510804DE}|BankingAppExercise\\BankingAppExercise.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\bankingappexercise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFAD943-B1BA-412E-A52D-D802510804DE}|BankingAppExercise\\BankingAppExercise.csproj|solutionrelative:bankingappexercise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFAD943-B1BA-412E-A52D-D802510804DE}|BankingAppExercise\\BankingAppExercise.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\bankingappexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFAD943-B1BA-412E-A52D-D802510804DE}|BankingAppExercise\\BankingAppExercise.csproj|solutionrelative:bankingappexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFAD943-B1BA-412E-A52D-D802510804DE}|BankingAppExercise\\BankingAppExercise.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\bankingappexercise\\acount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFAD943-B1BA-412E-A52D-D802510804DE}|BankingAppExercise\\BankingAppExercise.csproj|solutionrelative:bankingappexercise\\acount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9564EAD1-6680-36D3-7A26-7FACBE31399F}|LoginUsingMiddleware\\LoginUsingMiddleware.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\loginusingmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9564EAD1-6680-36D3-7A26-7FACBE31399F}|LoginUsingMiddleware\\LoginUsingMiddleware.csproj|solutionrelative:loginusingmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Acount.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\Acount.cs",
+              "RelativeDocumentMoniker": "BankingAppExercise\\Acount.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\Acount.cs",
+              "RelativeToolTip": "BankingAppExercise\\Acount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T07:53:04.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\Program.cs",
+              "RelativeDocumentMoniker": "BankingAppExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\Program.cs",
+              "RelativeToolTip": "BankingAppExercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:22:18.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BankingAppExercise\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BankingAppExercise\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T12:23:20.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\LoginUsingMiddleware\\Program.cs",
+              "RelativeDocumentMoniker": "LoginUsingMiddleware\\Program.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\LoginUsingMiddleware\\Program.cs",
+              "RelativeToolTip": "LoginUsingMiddleware\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:45:12.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
