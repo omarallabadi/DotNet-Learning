@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7565ED5D-AA9B-47AA-8D0B-831E8D2200D7}|ECommerceOrdersAppExercise\\ECommerceOrdersAppExercise.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\ecommerceordersappexercise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7565ED5D-AA9B-47AA-8D0B-831E8D2200D7}|ECommerceOrdersAppExercise\\ECommerceOrdersAppExercise.csproj|solutionrelative:ecommerceordersappexercise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7565ED5D-AA9B-47AA-8D0B-831E8D2200D7}|ECommerceOrdersAppExercise\\ECommerceOrdersAppExercise.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\ecommerceordersappexercise\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7565ED5D-AA9B-47AA-8D0B-831E8D2200D7}|ECommerceOrdersAppExercise\\ECommerceOrdersAppExercise.csproj|solutionrelative:ecommerceordersappexercise\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7565ED5D-AA9B-47AA-8D0B-831E8D2200D7}|ECommerceOrdersAppExercise\\ECommerceOrdersAppExercise.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\ecommerceordersappexercise\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7565ED5D-AA9B-47AA-8D0B-831E8D2200D7}|ECommerceOrdersAppExercise\\ECommerceOrdersAppExercise.csproj|solutionrelative:ecommerceordersappexercise\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7565ED5D-AA9B-47AA-8D0B-831E8D2200D7}|ECommerceOrdersAppExercise\\ECommerceOrdersAppExercise.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\ecommerceordersappexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7565ED5D-AA9B-47AA-8D0B-831E8D2200D7}|ECommerceOrdersAppExercise\\ECommerceOrdersAppExercise.csproj|solutionrelative:ecommerceordersappexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7DFAD943-B1BA-412E-A52D-D802510804DE}|BankingAppExercise\\BankingAppExercise.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\bankingappexercise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DFAD943-B1BA-412E-A52D-D802510804DE}|BankingAppExercise\\BankingAppExercise.csproj|solutionrelative:bankingappexercise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +42,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ECommerceOrdersAppExercise\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceOrdersAppExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ECommerceOrdersAppExercise\\Program.cs",
+              "RelativeToolTip": "ECommerceOrdersAppExercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T13:11:00.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ECommerceOrdersAppExercise\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ECommerceOrdersAppExercise\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ECommerceOrdersAppExercise\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "ECommerceOrdersAppExercise\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T13:18:21.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ECommerceOrdersAppExercise\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ECommerceOrdersAppExercise\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ECommerceOrdersAppExercise\\Models\\Order.cs*",
+              "RelativeToolTip": "ECommerceOrdersAppExercise\\Models\\Order.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T13:15:16.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ECommerceOrdersAppExercise\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerceOrdersAppExercise\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ECommerceOrdersAppExercise\\Models\\Product.cs*",
+              "RelativeToolTip": "ECommerceOrdersAppExercise\\Models\\Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T13:12:40.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Acount.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\Acount.cs",
               "RelativeDocumentMoniker": "BankingAppExercise\\Acount.cs",
@@ -38,12 +110,11 @@
               "RelativeToolTip": "BankingAppExercise\\Acount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T07:53:04.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T07:53:04.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\Program.cs",
               "RelativeDocumentMoniker": "BankingAppExercise\\Program.cs",
@@ -51,25 +122,24 @@
               "RelativeToolTip": "BankingAppExercise\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T12:22:18.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T12:22:18.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BankingAppExercise\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "BankingAppExercise\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowB0AAAA0AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BankingAppExercise\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T12:23:20.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\LoginUsingMiddleware\\Program.cs",
               "RelativeDocumentMoniker": "LoginUsingMiddleware\\Program.cs",
@@ -77,8 +147,7 @@
               "RelativeToolTip": "LoginUsingMiddleware\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T12:45:12.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T12:45:12.232Z"
             }
           ]
         }

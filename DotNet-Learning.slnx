@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="BankingAppExercise/BankingAppExercise.csproj" Id="7dfad943-b1ba-412e-a52d-d802510804de" />
+  <Project Path="ECommerceOrdersAppExercise/ECommerceOrdersAppExercise.csproj" Id="7565ed5d-aa9b-47aa-8d0b-831e8d2200d7" />
   <Project Path="LoginUsingMiddleware/LoginUsingMiddleware.csproj" />
   <Project Path="routingExsercise/routingExsercise.csproj" />
 </Solution>
