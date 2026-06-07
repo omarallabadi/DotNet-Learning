@@ -1,0 +1,76 @@
+﻿
+
+@model IEnumerable<CityWeather>
+
+
+
+
+@functions{
+    string getcolor(int temp)
+    {
+
+        string bgColor;
+
+        if (temp < 44)
+        {
+            bgColor = "blue-back";
+        }
+        else if (temp >= 44 && temp <= 74)
+        {
+            bgColor = "green-back";
+        }
+        else
+        {
+            bgColor = "orange-back";
+        }
+        return bgColor;
+    }
+    
+    }
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <h1 class="header">Weather</h1>
+
+  
+    <div class="flex">
+    @foreach (var city in Model)
+    {
+            <div class="box margin-top-200 margin-left @getcolor(city.TemperatureFahrenheit ?? 0)    margin-bottom flex-borderless   ">
+
+
+            <div>
+            @city.CityName
+
+             <div >
+
+                    @city.DateAndTime?.ToString("hh:mm tt")
+            </div>
+                    <a href="/weather/@city.CityUniqueCode" class="text-green">details</a>
+                </div>
+                <div class="border-left ">
+                    @city.TemperatureFahrenheit
+
+
+                </div>
+
+
+
+        </div>
+           
+
+      
+    }
+    </div>
+
+
+</body>
+</html>

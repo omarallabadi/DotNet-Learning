@@ -1,0 +1,42 @@
+﻿@model CityWeather
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="box w-25 margin-top-200 margin-auto   margin-bottom flex-borderless   ">
+
+
+        <div>
+            @Model.CityName
+
+            <div>
+
+                @Model.DateAndTime?.ToString("hh:mm tt")
+            </div>
+            
+        </div>
+        <div class="border-left ">
+            @Model.TemperatureFahrenheit
+
+
+        </div>
+
+
+
+    </div>
+
+           
+
+    
+</div>
+<div class="w-100 text-center"> <a href="/" class="text-green ">back to home</a></div>
+
+
+</body>
+</html>
