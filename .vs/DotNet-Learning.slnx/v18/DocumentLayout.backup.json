@@ -3,16 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82779747-C017-4C59-8DA7-4094036B8754}|WeatherApp\\WeatherApp.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{82779747-C017-4C59-8DA7-4094036B8754}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v2\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|solutionrelative:weatherapp_v2\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v2\\views\\shared\\_ldnlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|solutionrelative:weatherapp_v2\\views\\shared\\_ldnlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|solutionrelative:weatherapp_v2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|solutionrelative:weatherapp_v2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|solutionrelative:weatherapp_v2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|solutionrelative:weatherapp_v2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v2\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|solutionrelative:weatherapp_v2\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|solutionrelative:weatherapp_v2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v2\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|solutionrelative:weatherapp_v2\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B545A6-C539-4318-EAD9-0D63AF58EC0C}|WeatherApp_V2\\WeatherApp_V2.csproj|solutionrelative:weatherapp_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9564EAD1-6680-36D3-7A26-7FACBE31399F}|LoginUsingMiddleware\\LoginUsingMiddleware.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\loginusingmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9564EAD1-6680-36D3-7A26-7FACBE31399F}|LoginUsingMiddleware\\LoginUsingMiddleware.csproj|solutionrelative:loginusingmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82779747-C017-4C59-8DA7-4094036B8754}|WeatherApp\\WeatherApp.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82779747-C017-4C59-8DA7-4094036B8754}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82779747-C017-4C59-8DA7-4094036B8754}|WeatherApp\\WeatherApp.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82779747-C017-4C59-8DA7-4094036B8754}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82779747-C017-4C59-8DA7-4094036B8754}|WeatherApp\\WeatherApp.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{82779747-C017-4C59-8DA7-4094036B8754}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{82779747-C017-4C59-8DA7-4094036B8754}|WeatherApp\\WeatherApp.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82779747-C017-4C59-8DA7-4094036B8754}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82779747-C017-4C59-8DA7-4094036B8754}|WeatherApp\\WeatherApp.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -57,10 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7DFAD943-B1BA-412E-A52D-D802510804DE}|BankingAppExercise\\BankingAppExercise.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\bankingappexercise\\acount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DFAD943-B1BA-412E-A52D-D802510804DE}|BankingAppExercise\\BankingAppExercise.csproj|solutionrelative:bankingappexercise\\acount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9564EAD1-6680-36D3-7A26-7FACBE31399F}|LoginUsingMiddleware\\LoginUsingMiddleware.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\loginusingmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9564EAD1-6680-36D3-7A26-7FACBE31399F}|LoginUsingMiddleware\\LoginUsingMiddleware.csproj|solutionrelative:loginusingmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,24 +110,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp\\Views\\Home\\Error.cshtml",
-              "RelativeDocumentMoniker": "WeatherApp\\Views\\Home\\Error.cshtml",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp\\Views\\Home\\Error.cshtml*",
-              "RelativeToolTip": "WeatherApp\\Views\\Home\\Error.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "_LDNLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Views\\Shared\\_LDNLayout.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp_V2\\Views\\Shared\\_LDNLayout.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Views\\Shared\\_LDNLayout.cshtml*",
+              "RelativeToolTip": "WeatherApp_V2\\Views\\Shared\\_LDNLayout.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-07T12:39:43.675Z",
+              "WhenOpened": "2026-06-08T11:09:28.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp_V2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WeatherApp_V2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T11:00:28.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp_V2\\Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "WeatherApp_V2\\Views\\Home\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T11:00:18.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp_V2\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Views\\Home\\Details.cshtml*",
+              "RelativeToolTip": "WeatherApp_V2\\Views\\Home\\Details.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T11:00:02.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp_V2\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WeatherApp_V2\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T09:21:02.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp_V2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WeatherApp_V2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T09:07:46.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp_V2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WeatherApp_V2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T09:05:49.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WeatherApp_V2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "WeatherApp_V2\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAzwDEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:03:08.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherApp_V2\\Program.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Program.cs",
+              "RelativeToolTip": "WeatherApp_V2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:05:12.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CityWeather.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Models\\CityWeather.cs",
+              "RelativeDocumentMoniker": "WeatherApp_V2\\Models\\CityWeather.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\Models\\CityWeather.cs",
+              "RelativeToolTip": "WeatherApp_V2\\Models\\CityWeather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:05:07.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "WeatherApp\\Views\\Home\\Details.cshtml",
@@ -95,25 +252,36 @@
               "RelativeToolTip": "WeatherApp\\Views\\Home\\Details.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-07T12:07:25.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T12:07:25.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WeatherApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "WeatherApp\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAABwAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WeatherApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwBsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T11:59:49.283Z",
+              "WhenOpened": "2026-06-07T11:59:49.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\LoginUsingMiddleware\\Program.cs",
+              "RelativeDocumentMoniker": "LoginUsingMiddleware\\Program.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\LoginUsingMiddleware\\Program.cs",
+              "RelativeToolTip": "LoginUsingMiddleware\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:45:12.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WeatherApp\\Views\\_ViewStart.cshtml",
@@ -121,12 +289,11 @@
               "RelativeToolTip": "WeatherApp\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-07T11:37:23.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T11:37:23.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "StyleSheet.css",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp\\wwwroot\\css\\StyleSheet.css",
               "RelativeDocumentMoniker": "WeatherApp\\wwwroot\\css\\StyleSheet.css",
@@ -134,25 +301,23 @@
               "RelativeToolTip": "WeatherApp\\wwwroot\\css\\StyleSheet.css",
               "ViewState": "AgIAAPgAAAAAAAAAAAAQwFgBAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-06-07T11:27:16.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T11:27:16.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WeatherApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WeatherApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDgAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-07T10:53:06.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T10:53:06.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WeatherApp\\Views\\Shared\\_Layout.cshtml",
@@ -160,12 +325,23 @@
               "RelativeToolTip": "WeatherApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-07T11:15:37.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T11:15:37.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp\\Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "WeatherApp\\Views\\Home\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-07T12:39:43.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ECommerceOrdersAppExercise\\Program.cs",
               "RelativeDocumentMoniker": "ECommerceOrdersAppExercise\\Program.cs",
@@ -177,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ECommerceOrdersAppExercise\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ECommerceOrdersAppExercise\\Controllers\\HomeController.cs",
@@ -189,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ECommerceOrdersAppExercise\\Models\\Order.cs",
               "RelativeDocumentMoniker": "ECommerceOrdersAppExercise\\Models\\Order.cs",
@@ -197,12 +373,11 @@
               "RelativeToolTip": "ECommerceOrdersAppExercise\\Models\\Order.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAQwCsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T13:15:16.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T13:15:16.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ECommerceOrdersAppExercise\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ECommerceOrdersAppExercise\\Models\\Product.cs",
@@ -214,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "Acount.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\Acount.cs",
               "RelativeDocumentMoniker": "BankingAppExercise\\Acount.cs",
@@ -226,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\Program.cs",
               "RelativeDocumentMoniker": "BankingAppExercise\\Program.cs",
@@ -238,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BankingAppExercise\\Controllers\\HomeController.cs",
@@ -247,18 +422,6 @@
               "ViewState": "AgIAACYAAAAAAAAAAAAwwDoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T12:23:20.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\LoginUsingMiddleware\\Program.cs",
-              "RelativeDocumentMoniker": "LoginUsingMiddleware\\Program.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\LoginUsingMiddleware\\Program.cs",
-              "RelativeToolTip": "LoginUsingMiddleware\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T12:45:12.232Z"
             }
           ]
         }

@@ -4,4 +4,5 @@
   <Project Path="LoginUsingMiddleware/LoginUsingMiddleware.csproj" />
   <Project Path="routingExsercise/routingExsercise.csproj" />
   <Project Path="WeatherApp/WeatherApp.csproj" Id="82779747-c017-4c59-8da7-4094036b8754" />
+  <Project Path="WeatherApp_V2/WeatherApp_V2.csproj" />
 </Solution>
