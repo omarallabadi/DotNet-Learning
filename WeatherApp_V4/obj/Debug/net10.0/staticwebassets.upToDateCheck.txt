@@ -1,0 +1,2 @@
+wwwroot\css\StyleSheet.css
+C:\Users\omar\Desktop\projects\DotNet-Learning\WeatherApp_V4\wwwroot\css\StyleSheet.css
