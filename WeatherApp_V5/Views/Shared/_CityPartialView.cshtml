@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["title"] = "Home";
+
+}
+@model CityWeather
+
+
+
+
+
+
+@functions {
+    string getcolor(int temp)
+    {
+
+        string bgColor;
+
+        if (temp < 44)
+        {
+            bgColor = "blue-back";
+        }
+        else if (temp >= 44 && temp <= 74)
+        {
+            bgColor = "green-back";
+        }
+        else
+        {
+            bgColor = "orange-back";
+        }
+        return bgColor;
+    }
+
+}
+
+
+
+    
+
+  
+       
+            <div class="box margin-top-200 margin-left @getcolor(Model.TemperatureFahrenheit ?? 0)    margin-bottom flex-borderless   ">
+
+
+                <div>
+                    @Model.CityName
+
+                    <div>
+
+                        @Model.DateAndTime?.ToString("hh:mm tt")
+                    </div>
+                    <a href="/weather/@Model.CityUniqueCode" class="text-green">details</a>
+                </div>
+                <div class="border-left ">
+                    @Model.TemperatureFahrenheit
+
+
+                </div>
+
+
+
+
+           
+
+        
+    </div>
+
+

@@ -2,9 +2,13 @@
   <Project Path="BankingAppExercise/BankingAppExercise.csproj" Id="7dfad943-b1ba-412e-a52d-d802510804de" />
   <Project Path="ECommerceOrdersAppExercise/ECommerceOrdersAppExercise.csproj" Id="7565ed5d-aa9b-47aa-8d0b-831e8d2200d7" />
   <Project Path="LoginUsingMiddleware/LoginUsingMiddleware.csproj" />
+  <Project Path="Models/Models.csproj" Id="3d654747-1a0f-40f6-a2fc-c933753223e5" />
   <Project Path="routingExsercise/routingExsercise.csproj" />
+  <Project Path="ServiceContract/ServiceContract.csproj" Id="907c625b-3723-4736-aed8-2a367c9f1942" />
+  <Project Path="Services/Services.csproj" Id="40f1976e-47fe-43b4-b1ae-5375750e44f3" />
   <Project Path="WeatherApp/WeatherApp.csproj" Id="82779747-c017-4c59-8da7-4094036b8754" />
   <Project Path="WeatherApp_V2/WeatherApp_V2.csproj" />
   <Project Path="WeatherApp_V3/WeatherApp_V3.csproj" />
   <Project Path="WeatherApp_V4/WeatherApp_V4.csproj" />
+  <Project Path="WeatherApp_V5/WeatherApp_V5.csproj" />
 </Solution>
