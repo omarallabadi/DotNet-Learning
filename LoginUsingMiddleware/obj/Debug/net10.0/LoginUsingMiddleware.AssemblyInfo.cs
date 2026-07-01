@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginUsingMiddleware")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ffa3bdf838f0dbddff468e42e3152dc91736657")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c6d7fb3fdb36fc4fadcd8c05575d2c537fd78a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginUsingMiddleware")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginUsingMiddleware")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
