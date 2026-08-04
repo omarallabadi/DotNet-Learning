@@ -7,6 +7,7 @@
   <Project Path="ServiceContract/ServiceContract.csproj" Id="907c625b-3723-4736-aed8-2a367c9f1942" />
   <Project Path="Services/Services.csproj" Id="40f1976e-47fe-43b4-b1ae-5375750e44f3" />
   <Project Path="SocialMediaLinks/SocialMediaLinks.csproj" Id="0a58cbab-ce1a-47af-bc6c-080aca276fe6" />
+  <Project Path="StockApp_V1/StockApp_V1.csproj" Id="035ac002-db5d-40b3-86d9-32ee28d157b9" />
   <Project Path="WeatherApp/WeatherApp.csproj" Id="82779747-c017-4c59-8da7-4094036b8754" />
   <Project Path="WeatherApp_V2/WeatherApp_V2.csproj" />
   <Project Path="WeatherApp_V3/WeatherApp_V3.csproj" />

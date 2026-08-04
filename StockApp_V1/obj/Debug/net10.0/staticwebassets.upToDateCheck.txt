@@ -1,0 +1,2 @@
+wwwroot\css\StyleSheet.css
+C:\Users\omar\Desktop\projects\DotNet-Learning\StockApp_V1\wwwroot\css\StyleSheet.css

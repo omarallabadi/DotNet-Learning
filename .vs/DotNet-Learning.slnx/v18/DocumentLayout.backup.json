@@ -3,96 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\socialmedialinks\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|solutionrelative:socialmedialinks\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\stockapp_v1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|solutionrelative:stockapp_v1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\socialmedialinks\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|solutionrelative:socialmedialinks\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\stockapp_v1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|solutionrelative:stockapp_v1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\socialmedialinks\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|solutionrelative:socialmedialinks\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\stockapp_v1\\services\\myservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|solutionrelative:stockapp_v1\\services\\myservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\socialmedialinks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|solutionrelative:socialmedialinks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\stockapp_v1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|solutionrelative:stockapp_v1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\socialmedialinks\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|solutionrelative:socialmedialinks\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\stockapp_v1\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|solutionrelative:stockapp_v1\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\socialmedialinks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|solutionrelative:socialmedialinks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\stockapp_v1\\models\\stocksympoloptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|solutionrelative:stockapp_v1\\models\\stocksympoloptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\socialmedialinks\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|solutionrelative:socialmedialinks\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\stockapp_v1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|solutionrelative:stockapp_v1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\socialmedialinks\\socialmedialinksoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|solutionrelative:socialmedialinks\\socialmedialinksoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\stockapp_v1\\servicescontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|solutionrelative:stockapp_v1\\servicescontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\socialmedialinks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|solutionrelative:socialmedialinks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\stockapp_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|solutionrelative:stockapp_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\socialmedialinks\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|solutionrelative:socialmedialinks\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\stockapp_v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|solutionrelative:stockapp_v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\socialmedialinks\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|solutionrelative:socialmedialinks\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\stockapp_v1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|solutionrelative:stockapp_v1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\socialmedialinks\\socialmedialinks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0A58CBAB-CE1A-47AF-BC6C-080ACA276FE6}|SocialMediaLinks\\SocialMediaLinks.csproj|solutionrelative:socialmedialinks\\socialmedialinks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F1976E-47FE-43B4-B1AE-5375750E44F3}|Services\\Services.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\services\\citiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40F1976E-47FE-43B4-B1AE-5375750E44F3}|Services\\Services.csproj|solutionrelative:services\\citiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F8AC17C-2103-8566-5108-816474D5EED3}|WeatherApp_V5\\WeatherApp_V5.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F8AC17C-2103-8566-5108-816474D5EED3}|WeatherApp_V5\\WeatherApp_V5.csproj|solutionrelative:weatherapp_v5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{907C625B-3723-4736-AED8-2A367C9F1942}|ServiceContract\\ServiceContract.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\servicecontract\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{907C625B-3723-4736-AED8-2A367C9F1942}|ServiceContract\\ServiceContract.csproj|solutionrelative:servicecontract\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F8AC17C-2103-8566-5108-816474D5EED3}|WeatherApp_V5\\WeatherApp_V5.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F8AC17C-2103-8566-5108-816474D5EED3}|WeatherApp_V5\\WeatherApp_V5.csproj|solutionrelative:weatherapp_v5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D654747-1A0F-40F6-A2FC-C933753223E5}|Models\\Models.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D654747-1A0F-40F6-A2FC-C933753223E5}|Models\\Models.csproj|solutionrelative:models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F8AC17C-2103-8566-5108-816474D5EED3}|WeatherApp_V5\\WeatherApp_V5.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v5\\weatherapp_v5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7F8AC17C-2103-8566-5108-816474D5EED3}|WeatherApp_V5\\WeatherApp_V5.csproj|solutionrelative:weatherapp_v5\\weatherapp_v5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F8AC17C-2103-8566-5108-816474D5EED3}|WeatherApp_V5\\WeatherApp_V5.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F8AC17C-2103-8566-5108-816474D5EED3}|WeatherApp_V5\\WeatherApp_V5.csproj|solutionrelative:weatherapp_v5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F8AC17C-2103-8566-5108-816474D5EED3}|WeatherApp_V5\\WeatherApp_V5.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v5\\viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F8AC17C-2103-8566-5108-816474D5EED3}|WeatherApp_V5\\WeatherApp_V5.csproj|solutionrelative:weatherapp_v5\\viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51A73541-16FD-165F-9AD7-1F8C7A6FCF38}|WeatherApp_V4\\WeatherApp_V4.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51A73541-16FD-165F-9AD7-1F8C7A6FCF38}|WeatherApp_V4\\WeatherApp_V4.csproj|solutionrelative:weatherapp_v4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51A73541-16FD-165F-9AD7-1F8C7A6FCF38}|WeatherApp_V4\\WeatherApp_V4.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v4\\viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51A73541-16FD-165F-9AD7-1F8C7A6FCF38}|WeatherApp_V4\\WeatherApp_V4.csproj|solutionrelative:weatherapp_v4\\viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51A73541-16FD-165F-9AD7-1F8C7A6FCF38}|WeatherApp_V4\\WeatherApp_V4.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\weatherapp_v4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51A73541-16FD-165F-9AD7-1F8C7A6FCF38}|WeatherApp_V4\\WeatherApp_V4.csproj|solutionrelative:weatherapp_v4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|c:\\users\\omar\\desktop\\projects\\dotnet-learning\\stockapp_v1\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{035AC002-DB5D-40B3-86D9-32EE28D157B9}|StockApp_V1\\StockApp_V1.csproj|solutionrelative:stockapp_v1\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,297 +58,163 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StyleSheet.css",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\wwwroot\\css\\StyleSheet.css",
-              "RelativeDocumentMoniker": "SocialMediaLinks\\wwwroot\\css\\StyleSheet.css",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\wwwroot\\css\\StyleSheet.css",
-              "RelativeToolTip": "SocialMediaLinks\\wwwroot\\css\\StyleSheet.css",
-              "ViewState": "AgIAAAsBAAAAAAAAAAAAwCABAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-07-01T09:15:48.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SocialMediaLinks\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SocialMediaLinks\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-01T09:05:14.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "SocialMediaLinks\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "SocialMediaLinks\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-30T13:51:13.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\Program.cs",
-              "RelativeDocumentMoniker": "SocialMediaLinks\\Program.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\Program.cs",
-              "RelativeToolTip": "SocialMediaLinks\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T13:44:22.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "SocialMediaLinks\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "SocialMediaLinks\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StockApp_V1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StockApp_V1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-01T08:02:56.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "SocialMediaLinks\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\Properties\\launchSettings.json",
-              "RelativeToolTip": "SocialMediaLinks\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-01T08:45:24.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SocialMediaLinksOptions.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\SocialMediaLinksOptions.cs",
-              "RelativeDocumentMoniker": "SocialMediaLinks\\SocialMediaLinksOptions.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\SocialMediaLinksOptions.cs",
-              "RelativeToolTip": "SocialMediaLinks\\SocialMediaLinksOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:38:29.27Z",
+              "WhenOpened": "2026-07-13T17:22:06.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "SocialMediaLinks\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "SocialMediaLinks\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-30T13:59:03.867Z",
+              "Title": "StockTrade.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Models\\StockTrade.cs",
+              "RelativeDocumentMoniker": "StockApp_V1\\Models\\StockTrade.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Models\\StockTrade.cs",
+              "RelativeToolTip": "StockApp_V1\\Models\\StockTrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T17:10:29.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\appsettings.json",
-              "RelativeDocumentMoniker": "SocialMediaLinks\\appsettings.json",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\appsettings.json",
-              "RelativeToolTip": "SocialMediaLinks\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-01T07:36:02.385Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StockApp_V1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "StockApp_V1\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T15:41:32.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockSympolOptions.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Models\\StockSympolOptions.cs",
+              "RelativeDocumentMoniker": "StockApp_V1\\Models\\StockSympolOptions.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Models\\StockSympolOptions.cs",
+              "RelativeToolTip": "StockApp_V1\\Models\\StockSympolOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:52:24.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StockApp_V1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StockApp_V1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwBsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:41:19.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyService.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Services\\MyService.cs",
+              "RelativeDocumentMoniker": "StockApp_V1\\Services\\MyService.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Services\\MyService.cs",
+              "RelativeToolTip": "StockApp_V1\\Services\\MyService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T16:12:14.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StockApp_V1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StockApp_V1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T15:43:39.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\ServicesContracts\\IFinnhubService.cs",
+              "RelativeDocumentMoniker": "StockApp_V1\\ServicesContracts\\IFinnhubService.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\ServicesContracts\\IFinnhubService.cs",
+              "RelativeToolTip": "StockApp_V1\\ServicesContracts\\IFinnhubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T16:14:06.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SocialMediaLinks\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SocialMediaLinks\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswBcAAAAbAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\appsettings.json",
+              "RelativeDocumentMoniker": "StockApp_V1\\appsettings.json",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\appsettings.json",
+              "RelativeToolTip": "StockApp_V1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-13T15:51:01.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Program.cs",
+              "RelativeDocumentMoniker": "StockApp_V1\\Program.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Program.cs",
+              "RelativeToolTip": "StockApp_V1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T13:50:58.842Z",
+              "WhenOpened": "2026-07-13T15:37:40.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "SocialMediaLinks\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\appsettings.Development.json",
-              "RelativeToolTip": "SocialMediaLinks\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-01T07:36:39.397Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StockApp_V1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StockApp_V1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T15:41:56.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "SocialMediaLinks",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\SocialMediaLinks.csproj",
-              "RelativeDocumentMoniker": "SocialMediaLinks\\SocialMediaLinks.csproj",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\SocialMediaLinks\\SocialMediaLinks.csproj",
-              "RelativeToolTip": "SocialMediaLinks\\SocialMediaLinks.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-30T13:52:32.741Z",
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "StockApp_V1\\wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\StockApp_V1\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "StockApp_V1\\wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-13T15:40:27.61Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "WeatherApp_V5.csproj",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V5\\WeatherApp_V5.csproj",
-              "RelativeDocumentMoniker": "WeatherApp_V5\\WeatherApp_V5.csproj",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V5\\WeatherApp_V5.csproj",
-              "RelativeToolTip": "WeatherApp_V5\\WeatherApp_V5.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-23T11:42:54.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Models\\Class1.cs",
-              "RelativeDocumentMoniker": "Models\\Class1.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Models\\Class1.cs",
-              "RelativeToolTip": "Models\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T11:43:11.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ServiceContract\\Class1.cs",
-              "RelativeDocumentMoniker": "ServiceContract\\Class1.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ServiceContract\\Class1.cs",
-              "RelativeToolTip": "ServiceContract\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T11:14:18.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CitiesService.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Services\\CitiesService.cs",
-              "RelativeDocumentMoniker": "Services\\CitiesService.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Services\\CitiesService.cs",
-              "RelativeToolTip": "Services\\CitiesService.cs",
-              "ViewState": "AgIAABwAAABAAAAAAMAswAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:51:46.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V5\\Program.cs",
-              "RelativeDocumentMoniker": "WeatherApp_V5\\Program.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V5\\Program.cs",
-              "RelativeToolTip": "WeatherApp_V5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:47:18.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V5\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WeatherApp_V5\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V5\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WeatherApp_V5\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-23T09:47:08.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V5\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WeatherApp_V5\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V5\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WeatherApp_V5\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowBYAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:46:42.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GridViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V5\\ViewComponents\\GridViewComponent.cs",
-              "RelativeDocumentMoniker": "WeatherApp_V5\\ViewComponents\\GridViewComponent.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V5\\ViewComponents\\GridViewComponent.cs",
-              "RelativeToolTip": "WeatherApp_V5\\ViewComponents\\GridViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T09:46:59.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V4\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WeatherApp_V4\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V4\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WeatherApp_V4\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAA8AAACgMzMzM/MmwBoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-11T07:59:29.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GridViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V4\\ViewComponents\\GridViewComponent.cs",
-              "RelativeDocumentMoniker": "WeatherApp_V4\\ViewComponents\\GridViewComponent.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V4\\ViewComponents\\GridViewComponent.cs",
-              "RelativeToolTip": "WeatherApp_V4\\ViewComponents\\GridViewComponent.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwAMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T07:55:42.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V4\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WeatherApp_V4\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V4\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WeatherApp_V4\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T07:54:32.349Z"
             }
           ]
         }
