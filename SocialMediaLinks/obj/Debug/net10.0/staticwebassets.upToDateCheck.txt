@@ -1,2 +1,2 @@
 wwwroot\css\StyleSheet.css
-C:\Users\omar\Desktop\projects\DotNet-Learning\SocialMediaLinks\wwwroot\css\StyleSheet.css
+C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\SocialMediaLinks\wwwroot\css\StyleSheet.css

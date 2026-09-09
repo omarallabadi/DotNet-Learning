@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V5\\WeatherApp_V5.csproj": {}
+    "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\WeatherApp_V5\\WeatherApp_V5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Models\\Models.csproj": {
+    "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Models\\Models.csproj",
+        "projectPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\omar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Models\\obj\\",
+        "outputPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -345,14 +345,14 @@
         }
       }
     },
-    "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ServiceContract\\ServiceContract.csproj": {
+    "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\ServiceContract\\ServiceContract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ServiceContract\\ServiceContract.csproj",
+        "projectUniqueName": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\ServiceContract\\ServiceContract.csproj",
         "projectName": "ServiceContract",
-        "projectPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ServiceContract\\ServiceContract.csproj",
+        "projectPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\ServiceContract\\ServiceContract.csproj",
         "packagesPath": "C:\\Users\\omar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ServiceContract\\obj\\",
+        "outputPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\ServiceContract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -374,8 +374,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Models\\Models.csproj"
+              "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\Models\\Models.csproj"
               }
             }
           }
@@ -690,14 +690,14 @@
         }
       }
     },
-    "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Services\\Services.csproj": {
+    "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\omar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Services\\obj\\",
+        "outputPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -719,8 +719,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ServiceContract\\ServiceContract.csproj": {
-                "projectPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ServiceContract\\ServiceContract.csproj"
+              "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\ServiceContract\\ServiceContract.csproj": {
+                "projectPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\ServiceContract\\ServiceContract.csproj"
               }
             }
           }
@@ -1035,14 +1035,14 @@
         }
       }
     },
-    "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V5\\WeatherApp_V5.csproj": {
+    "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\WeatherApp_V5\\WeatherApp_V5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V5\\WeatherApp_V5.csproj",
+        "projectUniqueName": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\WeatherApp_V5\\WeatherApp_V5.csproj",
         "projectName": "WeatherApp_V5",
-        "projectPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V5\\WeatherApp_V5.csproj",
+        "projectPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\WeatherApp_V5\\WeatherApp_V5.csproj",
         "packagesPath": "C:\\Users\\omar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V5\\obj\\",
+        "outputPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\WeatherApp_V5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1064,14 +1064,14 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Models\\Models.csproj"
+              "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\Models\\Models.csproj"
               },
-              "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ServiceContract\\ServiceContract.csproj": {
-                "projectPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\ServiceContract\\ServiceContract.csproj"
+              "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\ServiceContract\\ServiceContract.csproj": {
+                "projectPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\ServiceContract\\ServiceContract.csproj"
               },
-              "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\Services\\Services.csproj"
+              "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\Services\\Services.csproj"
               }
             }
           }

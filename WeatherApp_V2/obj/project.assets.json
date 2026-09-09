@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\WeatherApp_V2.csproj",
+      "projectUniqueName": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\WeatherApp_V2\\WeatherApp_V2.csproj",
       "projectName": "WeatherApp_V2",
-      "projectPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\WeatherApp_V2.csproj",
+      "projectPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\WeatherApp_V2\\WeatherApp_V2.csproj",
       "packagesPath": "C:\\Users\\omar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\WeatherApp_V2\\obj\\",
+      "outputPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\WeatherApp_V2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

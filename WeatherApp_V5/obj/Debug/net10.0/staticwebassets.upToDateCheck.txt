@@ -1,2 +1,2 @@
-C:\Users\omar\Desktop\projects\DotNet-Learning\WeatherApp_V5\wwwroot\css\StyleSheet.css
+C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\WeatherApp_V5\wwwroot\css\StyleSheet.css
 wwwroot\css\StyleSheet.css

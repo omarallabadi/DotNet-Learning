@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\LoginUsingMiddleware\\LoginUsingMiddleware.csproj": {}
+    "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\LoginUsingMiddleware\\LoginUsingMiddleware.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\LoginUsingMiddleware\\LoginUsingMiddleware.csproj": {
+    "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\LoginUsingMiddleware\\LoginUsingMiddleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\LoginUsingMiddleware\\LoginUsingMiddleware.csproj",
+        "projectUniqueName": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\LoginUsingMiddleware\\LoginUsingMiddleware.csproj",
         "projectName": "LoginUsingMiddleware",
-        "projectPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\LoginUsingMiddleware\\LoginUsingMiddleware.csproj",
+        "projectPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\LoginUsingMiddleware\\LoginUsingMiddleware.csproj",
         "packagesPath": "C:\\Users\\omar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\LoginUsingMiddleware\\obj\\",
+        "outputPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\LoginUsingMiddleware\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

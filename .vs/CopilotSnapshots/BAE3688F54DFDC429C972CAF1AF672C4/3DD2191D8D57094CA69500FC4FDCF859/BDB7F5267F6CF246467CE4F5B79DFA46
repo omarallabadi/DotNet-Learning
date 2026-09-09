@@ -1,0 +1,392 @@
+﻿using StockApp_V2.Services;
+using StockApp_V2.ServicesContracts;
+using StockApp_V2.DTO;
+
+namespace StockTest
+{
+    public class UnitTest1
+    {
+        private readonly IStocksService _StockServices;
+
+        public UnitTest1()
+        {
+            _StockServices = new StockServices(false);
+        }
+
+        #region CreateBuyOrder
+
+        [Fact]
+        public async Task CreateBuyOrder_NullRequest()
+        {
+            // Arrange
+            BuyOrderRequest? buyOrderRequest = null;
+
+            // Act & Assert
+            await Assert.ThrowsAsync<ArgumentNullException>(
+                () => _StockServices.CreateBuyOrder(buyOrderRequest));
+        }
+
+        [Fact]
+        public async Task CreateBuyOrder_ZeroQuantity()
+        {
+            // Arrange
+            BuyOrderRequest buyOrderRequest = new BuyOrderRequest
+            {
+                StockSymbol = "AAPL",
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Now,
+                Quantity = 0,
+                Price = 100
+            };
+
+            // Act & Assert
+            await Assert.ThrowsAsync<ArgumentException>(
+                () => _StockServices.CreateBuyOrder(buyOrderRequest));
+        }
+
+        [Fact]
+        public async Task CreateBuyOrder_OverQuantity()
+        {
+            // Arrange
+            BuyOrderRequest buyOrderRequest = new BuyOrderRequest
+            {
+                StockSymbol = "AAPL",
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Now,
+                Quantity = 100001,
+                Price = 100
+            };
+
+            // Act & Assert
+            await Assert.ThrowsAsync<ArgumentException>(
+                () => _StockServices.CreateBuyOrder(buyOrderRequest));
+        }
+
+        [Fact]
+        public async Task CreateBuyOrder_ZeroPrice()
+        {
+            // Arrange
+            BuyOrderRequest buyOrderRequest = new BuyOrderRequest
+            {
+                StockSymbol = "AAPL",
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Now,
+                Quantity = 100,
+                Price = 0
+            };
+
+            // Act & Assert
+            await Assert.ThrowsAsync<ArgumentException>(
+                () => _StockServices.CreateBuyOrder(buyOrderRequest));
+        }
+
+        [Fact]
+        public async Task CreateBuyOrder_OverPrice()
+        {
+            // Arrange
+            BuyOrderRequest buyOrderRequest = new BuyOrderRequest
+            {
+                StockSymbol = "AAPL",
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Now,
+                Quantity = 100,
+                Price = 10001
+            };
+
+            // Act & Assert
+            await Assert.ThrowsAsync<ArgumentException>(
+                () => _StockServices.CreateBuyOrder(buyOrderRequest));
+        }
+
+        [Fact]
+        public async Task CreateBuyOrder_NullSymbol()
+        {
+            // Arrange
+            BuyOrderRequest buyOrderRequest = new BuyOrderRequest
+            {
+                StockSymbol = null,
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Now,
+                Quantity = 100,
+                Price = 1000
+            };
+
+            // Act & Assert
+            await Assert.ThrowsAsync<ArgumentException>(
+                () => _StockServices.CreateBuyOrder(buyOrderRequest));
+        }
+
+        [Fact]
+        public async Task CreateBuyOrder_OldDate()
+        {
+            // Arrange
+            BuyOrderRequest buyOrderRequest = new BuyOrderRequest
+            {
+                StockSymbol = "AAPL",
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Parse("1999-12-31"),
+                Quantity = 100,
+                Price = 1000
+            };
+
+            // Act & Assert
+            await Assert.ThrowsAsync<ArgumentException>(
+                () => _StockServices.CreateBuyOrder(buyOrderRequest));
+        }
+
+        [Fact]
+        public async Task CreateBuyOrder_SupplyAllValues()
+        {
+            // Arrange
+            BuyOrderRequest buyOrderRequest = new BuyOrderRequest
+            {
+                StockSymbol = "AAPL",
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Now,
+                Quantity = 100,
+                Price = 1000
+            };
+
+            // Act
+            BuyOrderResponse response =
+                await _StockServices.CreateBuyOrder(buyOrderRequest);
+
+            List<BuyOrderResponse> buyOrderResponse =
+                await _StockServices.GetBuyOrders();
+
+            // Assert
+            Assert.True(response.BuyOrderID != Guid.Empty);
+            Assert.Contains(response, buyOrderResponse);
+        }
+
+        #endregion
+
+
+        #region CreateSellOrder
+
+        [Fact]
+        public async Task CreateSellOrder_NullRequest()
+        {
+            // Arrange
+            SellOrderRequest? sellOrderRequest = null;
+
+            // Act & Assert
+            await Assert.ThrowsAsync<ArgumentNullException>(
+                () => _StockServices.CreateSellOrder(sellOrderRequest));
+        }
+
+        [Fact]
+        public async Task CreateSellOrder_ZeroQuantity()
+        {
+            // Arrange
+            SellOrderRequest sellOrderRequest = new SellOrderRequest
+            {
+                StockSymbol = "AAPL",
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Now,
+                Quantity = 0,
+                Price = 100
+            };
+
+            // Act & Assert
+            await Assert.ThrowsAsync<ArgumentException>(
+                () => _StockServices.CreateSellOrder(sellOrderRequest));
+        }
+
+        [Fact]
+        public async Task CreateSellOrder_OverQuantity()
+        {
+            // Arrange
+            SellOrderRequest sellOrderRequest = new SellOrderRequest
+            {
+                StockSymbol = "AAPL",
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Now,
+                Quantity = 100001,
+                Price = 100
+            };
+
+            // Act & Assert
+            await Assert.ThrowsAsync<ArgumentException>(
+                () => _StockServices.CreateSellOrder(sellOrderRequest));
+        }
+
+        [Fact]
+        public async Task CreateSellOrder_ZeroPrice()
+        {
+            // Arrange
+            SellOrderRequest sellOrderRequest = new SellOrderRequest
+            {
+                StockSymbol = "AAPL",
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Now,
+                Quantity = 100,
+                Price = 0
+            };
+
+            // Act & Assert
+            await Assert.ThrowsAsync<ArgumentException>(
+                () => _StockServices.CreateSellOrder(sellOrderRequest));
+        }
+
+        [Fact]
+        public async Task CreateSellOrder_OverPrice()
+        {
+            // Arrange
+            SellOrderRequest sellOrderRequest = new SellOrderRequest
+            {
+                StockSymbol = "AAPL",
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Now,
+                Quantity = 100,
+                Price = 10001
+            };
+
+            // Act & Assert
+            await Assert.ThrowsAsync<ArgumentException>(
+                () => _StockServices.CreateSellOrder(sellOrderRequest));
+        }
+
+        [Fact]
+        public async Task CreateSellOrder_NullSymbol()
+        {
+            // Arrange
+            SellOrderRequest sellOrderRequest = new SellOrderRequest
+            {
+                StockSymbol = null,
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Now,
+                Quantity = 100,
+                Price = 1000
+            };
+
+            // Act & Assert
+            await Assert.ThrowsAsync<ArgumentException>(
+                () => _StockServices.CreateSellOrder(sellOrderRequest));
+        }
+
+        [Fact]
+        public async Task CreateSellOrder_OldDate()
+        {
+            // Arrange
+            SellOrderRequest sellOrderRequest = new SellOrderRequest
+            {
+                StockSymbol = "AAPL",
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Parse("1999-12-31"),
+                Quantity = 100,
+                Price = 1000
+            };
+
+            // Act & Assert
+            await Assert.ThrowsAsync<ArgumentException>(
+                () => _StockServices.CreateSellOrder(sellOrderRequest));
+        }
+
+        [Fact]
+        public async Task CreateSellOrder_SupplyAllValues()
+        {
+            // Arrange
+            SellOrderRequest sellOrderRequest = new SellOrderRequest
+            {
+                StockSymbol = "AAPL",
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Now,
+                Quantity = 100,
+                Price = 1000
+            };
+
+            // Act
+            SellOrderResponse response =
+                await _StockServices.CreateSellOrder(sellOrderRequest);
+
+            List<SellOrderResponse> sellOrderResponse =
+                await _StockServices.GetSellOrders();
+
+            // Assert
+            Assert.True(response.SellOrderID != Guid.Empty);
+            Assert.Contains(response, sellOrderResponse);
+        }
+
+        #endregion
+
+
+        #region GetAllBuyOrders
+
+        [Fact]
+        public async Task GetAllBuyOrders_EmptyList()
+        {
+            // Act
+            List<BuyOrderResponse> buyOrders =
+                await _StockServices.GetBuyOrders();
+
+            // Assert
+            Assert.Empty(buyOrders);
+        }
+
+        [Fact]
+        public async Task GetAllBuyOrders_WithExistingOrders()
+        {
+            // Arrange
+            BuyOrderRequest buyOrderRequest = new BuyOrderRequest
+            {
+                StockSymbol = "AAPL",
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Now,
+                Quantity = 100,
+                Price = 100
+            };
+
+            await _StockServices.CreateBuyOrder(buyOrderRequest);
+
+            // Act
+            List<BuyOrderResponse> buyOrders =
+                await _StockServices.GetBuyOrders();
+
+            // Assert
+            Assert.NotEmpty(buyOrders);
+        }
+
+        #endregion
+
+
+
+        #region GetAllSellOrders
+
+        [Fact]
+        public async Task GetAllSellOrders_EmptyList()
+        {
+            // Act
+            List<SellOrderResponse> sellOrders =
+                await _StockServices.GetSellOrders  ();
+
+            // Assert
+            Assert.Empty(sellOrders);
+        }
+
+        [Fact]
+        public async Task GetAllSellOrders_WithExistingOrders()
+        {
+            // Arrange
+            SellOrderRequest sellOrderRequest = new SellOrderRequest
+            {
+                StockSymbol = "AAPL",
+                StockName = "Apple Inc.",
+                DateAndTimeOfOrder = DateTime.Now,
+                Quantity = 100,
+                Price = 100
+            };
+
+            await _StockServices.CreateSellOrder(sellOrderRequest);
+
+            // Act
+            List<SellOrderResponse> sellOrders =
+                await _StockServices.GetSellOrders();
+
+            // Assert
+            Assert.NotEmpty(sellOrders);
+        }
+
+        #endregion
+    }
+}

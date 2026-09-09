@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\BankingAppExercise.csproj",
+      "projectUniqueName": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\BankingAppExercise\\BankingAppExercise.csproj",
       "projectName": "BankingAppExercise",
-      "projectPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\BankingAppExercise.csproj",
+      "projectPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\BankingAppExercise\\BankingAppExercise.csproj",
       "packagesPath": "C:\\Users\\omar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omar\\Desktop\\projects\\DotNet-Learning\\BankingAppExercise\\obj\\",
+      "outputPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\BankingAppExercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
