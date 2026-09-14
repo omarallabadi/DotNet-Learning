@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Stock App";
+}
+@model StockTrade
+
+<div class="header"> <h1>Stock App</h1> </div>
+<form method="post">
+    <div class="page-content">
+        <div class="stock center-box">
+            <div class="box white-back">
+                <div class="flex" style="justify-content: space-between; align-items: center;"> <div> <h1 class="stock-title">@Model.StockName</h1> <span class="text-grey">@Model.StockSymbol</span> </div> <h1 class="stock-price text-green">$@Model.Price</h1> </div>
+                <input type="hidden" name="StockName" value="@Model.StockName" />
+                <input type="hidden" name="StockSymbol" value="@Model.StockSymbol" />
+                <input type="hidden" name="Price" value="@Model.Price" />
+            </div>
+
+            <div class="box trading-panel">
+                <h2 class="text-blue">Trade @Model.StockSymbol</h2>
+
+                <div class="mt">
+                    <label class="form-label">Quantity</label>
+                    <input type="number" name="Quantity" class="form-input" placeholder="Enter quantity" min="1" />
+                </div>
+
+                <div class="button-panel">
+                    <button type="submit" formaction="~/Trade/BuyOrder" class="button button-green-back trading-button">Buy</button>
+                    <button type="submit" formaction="~/Trade/SellOrder" class="button button-red-back trading-button">Sell</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    @if (ViewBag.errors != null)
+    {
+        <div class="text-red margin-bottom">
+            <ul>
+                @foreach (string error in ViewBag.errors)
+                {
+                    <li>@error</li>
+                }
+            </ul>
+        </div>
+    }
+
+</form><div class="footer-content"> Stock App &copy; @DateTime.Now.Year </div>

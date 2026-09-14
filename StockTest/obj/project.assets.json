@@ -394,14 +394,14 @@
           "build/net8.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "StockApp_V2/1.0.0": {
+      "StockApp_V3/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "compile": {
-          "bin/placeholder/StockApp_V2.dll": {}
+          "bin/placeholder/StockApp_V3.dll": {}
         },
         "runtime": {
-          "bin/placeholder/StockApp_V2.dll": {}
+          "bin/placeholder/StockApp_V3.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -917,16 +917,16 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "StockApp_V2/1.0.0": {
+    "StockApp_V3/1.0.0": {
       "type": "project",
-      "path": "../StockApp_V2/StockApp_V2.csproj",
-      "msbuildProject": "../StockApp_V2/StockApp_V2.csproj"
+      "path": "../StockApp_V3/StockApp_V3.csproj",
+      "msbuildProject": "../StockApp_V3/StockApp_V3.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "Microsoft.NET.Test.Sdk >= 17.14.1",
-      "StockApp_V2 >= 1.0.0",
+      "StockApp_V3 >= 1.0.0",
       "coverlet.collector >= 6.0.4",
       "xunit >= 2.9.3",
       "xunit.runner.visualstudio >= 3.1.4"
@@ -965,8 +965,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V2\\StockApp_V2.csproj": {
-              "projectPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V2\\StockApp_V2.csproj"
+            "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V3\\StockApp_V3.csproj": {
+              "projectPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V3\\StockApp_V3.csproj"
             }
           }
         }

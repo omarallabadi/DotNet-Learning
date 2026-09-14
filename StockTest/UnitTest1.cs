@@ -1,6 +1,6 @@
-﻿using StockApp_V2.Services;
-using StockApp_V2.ServicesContracts;
-using StockApp_V2.DTO;
+﻿using StockApp_V3.Services;
+using StockApp_V3.ServicesContracts;
+using StockApp_V3.DTO;
 
 namespace StockTest
 {
