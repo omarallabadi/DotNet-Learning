@@ -9,7 +9,7 @@
       "StockTest/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "17.14.1",
-          "StockApp_V2": "1.0.0",
+          "StockApp_V3": "1.0.0",
           "xunit": "2.9.3"
         },
         "runtime": {
@@ -331,9 +331,9 @@
           }
         }
       },
-      "StockApp_V2/1.0.0": {
+      "StockApp_V3/1.0.0": {
         "runtime": {
-          "StockApp_V2.dll": {
+          "StockApp_V3.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -424,7 +424,7 @@
       "path": "xunit.extensibility.execution/2.9.3",
       "hashPath": "xunit.extensibility.execution.2.9.3.nupkg.sha512"
     },
-    "StockApp_V2/1.0.0": {
+    "StockApp_V3/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

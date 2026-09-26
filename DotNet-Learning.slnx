@@ -10,6 +10,7 @@
   <Project Path="StockApp_V1/StockApp_V1.csproj" Id="035ac002-db5d-40b3-86d9-32ee28d157b9" />
   <Project Path="StockApp_V2/StockApp_V2.csproj" />
   <Project Path="StockApp_V3/StockApp_V3.csproj" />
+  <Project Path="StockApp_V4/StockApp_V4.csproj" />
   <Project Path="StockTest/StockTest.csproj" Id="136b849f-61ac-409e-a6bc-afbcba399be5" />
   <Project Path="WeatherApp/WeatherApp.csproj" Id="82779747-c017-4c59-8da7-4094036b8754" />
   <Project Path="WeatherApp_V2/WeatherApp_V2.csproj" />
