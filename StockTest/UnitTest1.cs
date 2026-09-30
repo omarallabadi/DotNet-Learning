@@ -10,7 +10,7 @@ namespace StockTest
 
         public UnitTest1()
         {
-            _StockServices = new StockServices(false);
+            _StockServices = new StockServices();
         }
 
         #region CreateBuyOrder
