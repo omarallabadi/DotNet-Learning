@@ -32,3 +32,4 @@ C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\StockApp_V2\obj\Debug\net10
 C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\StockApp_V2\obj\Debug\net10.0\StockApp_V2.pdb
 C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\StockApp_V2\obj\Debug\net10.0\StockApp_V2.genruntimeconfig.cache
 C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\StockApp_V2\obj\Debug\net10.0\ref\StockApp_V2.dll
+C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\StockApp_V2\obj\Debug\net10.0\StockApp.BDF5771B.Up2Date

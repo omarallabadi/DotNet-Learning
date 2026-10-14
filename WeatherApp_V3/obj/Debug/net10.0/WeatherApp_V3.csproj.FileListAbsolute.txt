@@ -66,3 +66,4 @@ C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\WeatherApp_V3\obj\Debug\net
 C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\WeatherApp_V3\obj\Debug\net10.0\WeatherApp_V3.pdb
 C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\WeatherApp_V3\obj\Debug\net10.0\WeatherApp_V3.genruntimeconfig.cache
 C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\WeatherApp_V3\obj\Debug\net10.0\ref\WeatherApp_V3.dll
+C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\WeatherApp_V3\obj\Debug\net10.0\WeatherA.F5FFB029.Up2Date

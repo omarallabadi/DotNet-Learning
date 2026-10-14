@@ -1,0 +1,36 @@
+﻿@model StockTrade
+
+<div class="box white-back center-box">
+
+    ```
+    <div class="text-center">
+        <img src="@Model.Logo"
+             alt="@Model.StockName"
+             width="100" />
+    </div>
+
+    <div class="text-center">
+        <h2 class="stock-title">
+            @Model.StockName
+        </h2>
+
+        <h4 class="text-grey">
+            @Model.StockSymbol
+        </h4>
+
+        <h2 class="stock-price">
+            $@Model.Price.ToString("0.00")
+        </h2>
+
+        <a asp-controller="Trade"
+           asp-action="Index"
+           asp-route-stock="@Model.StockSymbol"
+           class="button button-green-back">
+
+            Trade Now
+
+        </a>
+    </div>
+    ```
+
+</div>

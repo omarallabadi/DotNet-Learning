@@ -1,0 +1,37 @@
+﻿@model List<Stock>
+
+<div class="list-container">
+
+    ```
+    <ul class="list">
+
+        @foreach (var stock in Model)
+        {
+            <li>
+                <a asp-controller="Stocks"
+                   asp-action="Explore"
+                   asp-route-stock="@stock.StockSymbol"
+                   class="link-hover">
+
+                    @stock.StockName
+
+                </a>
+
+                <h5 class="text-grey">
+                    @stock.StockSymbol
+                </h5>
+            </li>
+        }
+
+    </ul>
+
+    @if (ViewBag.Stock != null)
+    {
+        @await Component.InvokeAsync(
+            "SelectedStock",
+            new { stock = ViewBag.Stock }
+        )
+    }
+    ```
+
+</div>

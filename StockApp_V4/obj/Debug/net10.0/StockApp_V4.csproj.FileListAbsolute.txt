@@ -35,3 +35,4 @@ C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\StockApp_V4\obj\Debug\net10
 C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\StockApp_V4\obj\Debug\net10.0\compressed\ei76gbwe2t-{0}-ehgnz7f14e-ehgnz7f14e.gz
 C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\StockApp_V4\obj\Debug\net10.0\compressed\qjsgdm1nzf-{0}-9xennu59i4-9xennu59i4.gz
 C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\StockApp_V4\obj\Debug\net10.0\compressed\unwey3r6jf-{0}-d171zkdrjx-d171zkdrjx.gz
+C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\StockApp_V4\obj\Debug\net10.0\StockApp.F1A58D19.Up2Date

@@ -58,3 +58,4 @@ C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\ECommerceOrdersAppExercise\
 C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\ECommerceOrdersAppExercise\obj\Debug\net10.0\ECommerceOrdersAppExercise.pdb
 C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\ECommerceOrdersAppExercise\obj\Debug\net10.0\ECommerceOrdersAppExercise.genruntimeconfig.cache
 C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\ECommerceOrdersAppExercise\obj\Debug\net10.0\ref\ECommerceOrdersAppExercise.dll
+C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\ECommerceOrdersAppExercise\obj\Debug\net10.0\ECommerc.D1FC734B.Up2Date

@@ -60,3 +60,4 @@ C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\BankingAppExercise\obj\Debu
 C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\BankingAppExercise\obj\Debug\net10.0\BankingAppExercise.pdb
 C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\BankingAppExercise\obj\Debug\net10.0\BankingAppExercise.genruntimeconfig.cache
 C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\BankingAppExercise\obj\Debug\net10.0\ref\BankingAppExercise.dll
+C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\BankingAppExercise\obj\Debug\net10.0\BankingA.7B6E4163.Up2Date

@@ -1,0 +1,9 @@
+wwwroot\css\StyleSheet.css
+wwwroot\jquery.min.js
+wwwroot\jquery.validate.min.js
+wwwroot\jquery.validate.unobtrusive.min.js
+wwwroot\Rotativa\wkhtmltopdf.exe
+C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\StockApp_V6\wwwroot\jquery.min.js
+C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\StockApp_V6\wwwroot\jquery.validate.min.js
+C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\StockApp_V6\wwwroot\jquery.validate.unobtrusive.min.js
+C:\Users\omar\Desktop\New folder (6)\DotNet-Learning\StockApp_V6\wwwroot\css\StyleSheet.css
