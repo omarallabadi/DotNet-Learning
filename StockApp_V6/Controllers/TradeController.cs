@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using Rotativa.AspNetCore;
 using StockApp_V6.DTO;
+using StockApp_V6.Filters;
 using StockApp_V6.Models;
 using StockApp_V6.ServicesContracts;
 
@@ -88,37 +89,10 @@ namespace StockApp_V6.Controllers
         }
 
         [Route("[action]")]
+        [TypeFilter(typeof(SellAndBuyActionFilter))]
         public async Task<IActionResult> BuyOrder(BuyOrderRequest buyOrderRequest)
         {
-            _logger.LogInformation(
-                "BuyOrder action started for stock {StockSymbol}",
-                buyOrderRequest.StockSymbol);
-
-            buyOrderRequest.DateAndTimeOfOrder = DateTime.Now;
-
-            ModelState.Clear();
-            TryValidateModel(buyOrderRequest);
-
-            if (!ModelState.IsValid)
-            {
-                _logger.LogWarning(
-                    "Buy order validation failed for stock {StockSymbol}",
-                    buyOrderRequest.StockSymbol);
-
-                ViewBag.errors = ModelState.Values
-                    .SelectMany(v => v.Errors)
-                    .Select(e => e.ErrorMessage)
-                    .ToList();
-
-                StockTrade stockTrade = new StockTrade()
-                {
-                    StockName = buyOrderRequest.StockName,
-                    StockSymbol = buyOrderRequest.StockSymbol,
-                    Price = buyOrderRequest.Price
-                };
-
-                return View("index", stockTrade);
-            }
+           
 
             await _stocksService.CreateBuyOrder(buyOrderRequest);
 
@@ -130,37 +104,11 @@ namespace StockApp_V6.Controllers
         }
 
         [Route("[action]")]
+        [TypeFilter(typeof(SellAndBuyActionFilter))]
+
         public async Task<IActionResult> SellOrder(SellOrderRequest sellOrderRequest)
         {
-            _logger.LogInformation(
-                "SellOrder action started for stock {StockSymbol}",
-                sellOrderRequest.StockSymbol);
-
-            sellOrderRequest.DateAndTimeOfOrder = DateTime.Now;
-
-            ModelState.Clear();
-            TryValidateModel(sellOrderRequest);
-
-            if (!ModelState.IsValid)
-            {
-                _logger.LogWarning(
-                    "Sell order validation failed for stock {StockSymbol}",
-                    sellOrderRequest.StockSymbol);
-
-                ViewBag.errors = ModelState.Values
-                    .SelectMany(v => v.Errors)
-                    .Select(e => e.ErrorMessage)
-                    .ToList();
-
-                StockTrade stockTrade = new StockTrade()
-                {
-                    StockName = sellOrderRequest.StockName,
-                    StockSymbol = sellOrderRequest.StockSymbol,
-                    Price = sellOrderRequest.Price
-                };
-
-                return View("index", stockTrade);
-            }
+            
 
             await _stocksService.CreateSellOrder(sellOrderRequest);
 

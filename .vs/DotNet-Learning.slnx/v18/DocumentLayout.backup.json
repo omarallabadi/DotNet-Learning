@@ -7,20 +7,28 @@
       "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stocktest\\tradecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\tradecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stocktest\\servicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\servicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\filters\\sellandbuyactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\filters\\sellandbuyactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\dto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\dto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\dto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\dto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\dto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\dto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\dto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\dto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +37,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stocktest\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stocktest\\tradecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\tradecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stocktest\\servicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\servicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stocktest\\stockcontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,14 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\services\\stockservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\services\\stockservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\dto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\dto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\dto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\dto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4566D60-1B46-6C32-5C61-F119CE4547AB}|StockApp_V3\\StockApp_V3.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v3\\services\\stockservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -198,14 +210,6 @@
       "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\migrations\\20260928072910_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\dto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\dto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\dto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\dto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32E9A297-910F-9D87-7441-A81BD0E58913}|StockApp_V5\\StockApp_V5.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v5\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32E9A297-910F-9D87-7441-A81BD0E58913}|StockApp_V5\\StockApp_V5.csproj|solutionrelative:stockapp_v5\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -269,30 +273,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SellAndBuyActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Filters\\SellAndBuyActionFilter.cs",
+              "RelativeDocumentMoniker": "StockApp_V6\\Filters\\SellAndBuyActionFilter.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Filters\\SellAndBuyActionFilter.cs*",
+              "RelativeToolTip": "StockApp_V6\\Filters\\SellAndBuyActionFilter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:31:43.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "StockApp_V6\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\appsettings.Development.json",
-              "RelativeToolTip": "StockApp_V6\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-02T07:55:08.861Z",
+              "Title": "SellOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\SellOrderRequest.cs",
+              "RelativeDocumentMoniker": "StockApp_V6\\DTO\\SellOrderRequest.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\SellOrderRequest.cs",
+              "RelativeToolTip": "StockApp_V6\\DTO\\SellOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T07:31:26.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "SellOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\SellOrderResponse.cs",
+              "RelativeDocumentMoniker": "StockApp_V6\\DTO\\SellOrderResponse.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\SellOrderResponse.cs",
+              "RelativeToolTip": "StockApp_V6\\DTO\\SellOrderResponse.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T07:31:35.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StocksController.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Controllers\\StocksController.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Controllers\\StocksController.cs",
               "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Controllers\\StocksController.cs",
               "RelativeToolTip": "StockApp_V6\\Controllers\\StocksController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T19:24:34.668Z",
               "EditorCaption": ""
@@ -303,55 +333,42 @@
               "Title": "TradeController.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Controllers\\TradeController.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Controllers\\TradeController.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Controllers\\TradeController.cs",
-              "RelativeToolTip": "StockApp_V6\\Controllers\\TradeController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Controllers\\TradeController.cs*",
+              "RelativeToolTip": "StockApp_V6\\Controllers\\TradeController.cs*",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAqwF4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-02T07:18:37.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TradeControllerTest.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\TradeControllerTest.cs",
-              "RelativeDocumentMoniker": "StockTest\\TradeControllerTest.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\TradeControllerTest.cs",
-              "RelativeToolTip": "StockTest\\TradeControllerTest.cs",
-              "ViewState": "AgIAANoAAAAAAAAAAAAgwNMAAACmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T16:07:43.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\ServiceTest.cs",
-              "RelativeDocumentMoniker": "StockTest\\ServiceTest.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\ServiceTest.cs",
-              "RelativeToolTip": "StockTest\\ServiceTest.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T10:11:14.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Program.cs",
-              "RelativeDocumentMoniker": "StockApp_V6\\Program.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Program.cs",
-              "RelativeToolTip": "StockApp_V6\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAArAAAAAAAAAA==",
+              "Title": "BuyOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\BuyOrderResponse.cs",
+              "RelativeDocumentMoniker": "StockApp_V6\\DTO\\BuyOrderResponse.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\BuyOrderResponse.cs",
+              "RelativeToolTip": "StockApp_V6\\DTO\\BuyOrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T07:34:08.951Z",
+              "WhenOpened": "2026-10-02T07:26:09.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "BuyOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\BuyOrderRequest.cs",
+              "RelativeDocumentMoniker": "StockApp_V6\\DTO\\BuyOrderRequest.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\BuyOrderRequest.cs",
+              "RelativeToolTip": "StockApp_V6\\DTO\\BuyOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T07:18:49.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CustomWebApplicationFactory.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\CustomWebApplicationFactory.cs",
               "RelativeDocumentMoniker": "StockTest\\CustomWebApplicationFactory.cs",
@@ -359,12 +376,59 @@
               "RelativeToolTip": "StockTest\\CustomWebApplicationFactory.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T20:47:15.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T20:47:15.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\ServiceTest.cs",
+              "RelativeDocumentMoniker": "StockTest\\ServiceTest.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\ServiceTest.cs",
+              "RelativeToolTip": "StockTest\\ServiceTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T10:11:14.693Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "TradeControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\TradeControllerTest.cs",
+              "RelativeDocumentMoniker": "StockTest\\TradeControllerTest.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\TradeControllerTest.cs",
+              "RelativeToolTip": "StockTest\\TradeControllerTest.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAgwNMAAACmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:07:43.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Program.cs",
+              "RelativeDocumentMoniker": "StockApp_V6\\Program.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Program.cs",
+              "RelativeToolTip": "StockApp_V6\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T07:34:08.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StockApp_V6\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\appsettings.Development.json",
+              "RelativeToolTip": "StockApp_V6\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-02T07:55:08.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Trade\\Index.cshtml",
               "RelativeDocumentMoniker": "StockApp_V6\\Views\\Trade\\Index.cshtml",
@@ -376,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "StockControllerIntegrationTest.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\StockControllerIntegrationTest.cs",
               "RelativeDocumentMoniker": "StockTest\\StockControllerIntegrationTest.cs",
@@ -388,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\appsettings.json",
               "RelativeDocumentMoniker": "StockApp_V6\\appsettings.json",
@@ -400,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "FinnhubRepository.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Repositories\\FinnhubRepository.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Repositories\\FinnhubRepository.cs",
@@ -412,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "StocksRepository.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Repositories\\StocksRepository.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Repositories\\StocksRepository.cs",
@@ -424,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "IFinnhubRepository.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\RepositoriesContracts\\IFinnhubRepository.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\RepositoriesContracts\\IFinnhubRepository.cs",
@@ -436,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "MyService.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Services\\MyService.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Services\\MyService.cs",
@@ -448,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "IFinnhubService.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\ServicesContracts\\IFinnhubService.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\ServicesContracts\\IFinnhubService.cs",
@@ -460,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "SelectedStockViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\ViewComponents\\SelectedStockViewComponent.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\ViewComponents\\SelectedStockViewComponent.cs",
@@ -472,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Stock.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Models\\Stock.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Models\\Stock.cs",
@@ -484,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Explore.cshtml",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Stocks\\Explore.cshtml",
               "RelativeDocumentMoniker": "StockApp_V6\\Views\\Stocks\\Explore.cshtml",
@@ -496,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
               "RelativeDocumentMoniker": "StockApp_V6\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
@@ -508,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "OrdersPDF.cshtml",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Trade\\OrdersPDF.cshtml",
               "RelativeDocumentMoniker": "StockApp_V6\\Views\\Trade\\OrdersPDF.cshtml",
@@ -520,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "StockServices.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Services\\StockServices.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Services\\StockServices.cs",
@@ -532,31 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BuyOrderResponse.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\BuyOrderResponse.cs",
-              "RelativeDocumentMoniker": "StockApp_V6\\DTO\\BuyOrderResponse.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\BuyOrderResponse.cs",
-              "RelativeToolTip": "StockApp_V6\\DTO\\BuyOrderResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T07:26:09.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BuyOrderRequest.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\BuyOrderRequest.cs",
-              "RelativeDocumentMoniker": "StockApp_V6\\DTO\\BuyOrderRequest.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\BuyOrderRequest.cs",
-              "RelativeToolTip": "StockApp_V6\\DTO\\BuyOrderRequest.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T07:18:49.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "StockServices.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V3\\Services\\StockServices.cs",
               "RelativeDocumentMoniker": "StockApp_V3\\Services\\StockServices.cs",
@@ -568,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "BuyOrder.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V3\\Models\\BuyOrder.cs",
               "RelativeDocumentMoniker": "StockApp_V3\\Models\\BuyOrder.cs",
@@ -580,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "OrdersViewModel.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V3\\Models\\OrdersViewModel.cs",
               "RelativeDocumentMoniker": "StockApp_V3\\Models\\OrdersViewModel.cs",
@@ -592,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "ValidationHelper.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V3\\Helpers\\ValidationHelper.cs",
               "RelativeDocumentMoniker": "StockApp_V3\\Helpers\\ValidationHelper.cs",
@@ -604,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "SellOrderRequest.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V3\\DTO\\SellOrderRequest.cs",
               "RelativeDocumentMoniker": "StockApp_V3\\DTO\\SellOrderRequest.cs",
@@ -616,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "StockApp_V3\\Controllers\\HomeController.cs",
@@ -628,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "BuyOrderRequest.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V3\\DTO\\BuyOrderRequest.cs",
               "RelativeDocumentMoniker": "StockApp_V3\\DTO\\BuyOrderRequest.cs",
@@ -640,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "BuyOrderResponse.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V3\\DTO\\BuyOrderResponse.cs",
               "RelativeDocumentMoniker": "StockApp_V3\\DTO\\BuyOrderResponse.cs",
@@ -652,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "Orders.cshtml",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V3\\Views\\Home\\Orders.cshtml",
               "RelativeDocumentMoniker": "StockApp_V3\\Views\\Home\\Orders.cshtml",
@@ -664,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "StockMarketDbContext.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Models\\StockMarketDbContext.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Models\\StockMarketDbContext.cs",
@@ -676,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\omar\\AppData\\Roaming\\Microsoft\\UserSecrets\\d6f31eab-1cb2-43b7-a58f-bcb1ac9444fc\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\d6f31eab-1cb2-43b7-a58f-bcb1ac9444fc\\secrets.json",
@@ -688,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "OrdersViewModel.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Models\\OrdersViewModel.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Models\\OrdersViewModel.cs",
@@ -700,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "SellOrder.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Models\\SellOrder.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Models\\SellOrder.cs",
@@ -712,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "TradingOptions.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Models\\TradingOptions.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Models\\TradingOptions.cs",
@@ -724,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "StockTrade.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Models\\StockTrade.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Models\\StockTrade.cs",
@@ -736,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "BuyOrder.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Models\\BuyOrder.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Models\\BuyOrder.cs",
@@ -748,7 +788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "StockTest.csproj",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\StockTest.csproj",
               "RelativeDocumentMoniker": "StockTest\\StockTest.csproj",
@@ -760,7 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "IStocksService.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\ServicesContracts\\IStocksService.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\ServicesContracts\\IStocksService.cs",
@@ -772,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "IStocksRepository.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\RepositoriesContracts\\IStocksRepository.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\RepositoriesContracts\\IStocksRepository.cs",
@@ -784,7 +824,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "StyleSheet.css",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\wwwroot\\css\\StyleSheet.css",
               "RelativeDocumentMoniker": "StockApp_V6\\wwwroot\\css\\StyleSheet.css",
@@ -796,7 +836,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "Orders.cshtml",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Trade\\Orders.cshtml",
               "RelativeDocumentMoniker": "StockApp_V6\\Views\\Trade\\Orders.cshtml",
@@ -808,7 +848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "_Navbar.cshtml",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Shared\\_Navbar.cshtml",
               "RelativeDocumentMoniker": "StockApp_V6\\Views\\Shared\\_Navbar.cshtml",
@@ -820,7 +860,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "20260928072910_Initial.Designer.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Migrations\\20260928072910_Initial.Designer.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Migrations\\20260928072910_Initial.Designer.cs",
@@ -832,7 +872,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "StockApp_V6\\Views\\_ViewImports.cshtml",
@@ -844,7 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "StockMarketDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Migrations\\StockMarketDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Migrations\\StockMarketDbContextModelSnapshot.cs",
@@ -856,7 +896,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "20260928072910_Initial.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Migrations\\20260928072910_Initial.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Migrations\\20260928072910_Initial.cs",
@@ -868,31 +908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "SellOrderResponse.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\SellOrderResponse.cs",
-              "RelativeDocumentMoniker": "StockApp_V6\\DTO\\SellOrderResponse.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\SellOrderResponse.cs",
-              "RelativeToolTip": "StockApp_V6\\DTO\\SellOrderResponse.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAswAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T07:31:35.446Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "SellOrderRequest.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\SellOrderRequest.cs",
-              "RelativeDocumentMoniker": "StockApp_V6\\DTO\\SellOrderRequest.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\DTO\\SellOrderRequest.cs",
-              "RelativeToolTip": "StockApp_V6\\DTO\\SellOrderRequest.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAmwAMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T07:31:26.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "StyleSheet.css",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V5\\wwwroot\\css\\StyleSheet.css",
               "RelativeDocumentMoniker": "StockApp_V5\\wwwroot\\css\\StyleSheet.css",
@@ -904,7 +920,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "Orders.cshtml",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V5\\Views\\Trade\\Orders.cshtml",
               "RelativeDocumentMoniker": "StockApp_V5\\Views\\Trade\\Orders.cshtml",
@@ -916,7 +932,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "OrdersPDF.cshtml",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V5\\Views\\Trade\\OrdersPDF.cshtml",
               "RelativeDocumentMoniker": "StockApp_V5\\Views\\Trade\\OrdersPDF.cshtml",
@@ -928,7 +944,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "TradingOptions.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V5\\Models\\TradingOptions.cs",
               "RelativeDocumentMoniker": "StockApp_V5\\Models\\TradingOptions.cs",
@@ -940,7 +956,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "TradeController.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V5\\Controllers\\TradeController.cs",
               "RelativeDocumentMoniker": "StockApp_V5\\Controllers\\TradeController.cs",
@@ -952,7 +968,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "StockServices.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V5\\Services\\StockServices.cs",
               "RelativeDocumentMoniker": "StockApp_V5\\Services\\StockServices.cs",
@@ -964,7 +980,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "20260928072910_Initial.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V5\\Migrations\\20260928072910_Initial.cs",
               "RelativeDocumentMoniker": "StockApp_V5\\Migrations\\20260928072910_Initial.cs",
@@ -976,7 +992,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "20260928071857_Initial.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V5\\Migrations\\20260928071857_Initial.cs",
               "RelativeDocumentMoniker": "StockApp_V5\\Migrations\\20260928071857_Initial.cs",
@@ -987,7 +1003,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "20260928071731_second.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V5\\Migrations\\20260928071731_second.cs",
               "RelativeDocumentMoniker": "StockApp_V5\\Migrations\\20260928071731_second.cs",
@@ -998,7 +1014,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "BuyOrder.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V5\\Models\\BuyOrder.cs",
               "RelativeDocumentMoniker": "StockApp_V5\\Models\\BuyOrder.cs",
@@ -1010,7 +1026,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "SellOrder.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V5\\Models\\SellOrder.cs",
               "RelativeDocumentMoniker": "StockApp_V5\\Models\\SellOrder.cs",
@@ -1022,7 +1038,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V5\\appsettings.Development.json",
               "RelativeDocumentMoniker": "StockApp_V5\\appsettings.Development.json",
@@ -1034,7 +1050,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V5\\Program.cs",
               "RelativeDocumentMoniker": "StockApp_V5\\Program.cs",
@@ -1046,7 +1062,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "StockMarketDbContext.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V5\\Models\\StockMarketDbContext.cs",
               "RelativeDocumentMoniker": "StockApp_V5\\Models\\StockMarketDbContext.cs",
