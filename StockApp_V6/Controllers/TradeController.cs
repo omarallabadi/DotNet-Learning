@@ -1,4 +1,5 @@
 ﻿
+using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using Rotativa.AspNetCore;
@@ -138,6 +139,23 @@ namespace StockApp_V6.Controllers
                 PageOrientation = Rotativa.AspNetCore.Options.Orientation.Portrait,
                 FileName = "Orders.pdf"
             };
+        }
+
+        [Route("[action]")]
+        public async Task<IActionResult> Error()
+        {
+            var feature = HttpContext.Features.Get<IExceptionHandlerPathFeature>();
+            var exception = feature?.Error;
+
+            if (exception != null)
+            {
+                ViewBag.ErrorMessage = exception.Message;
+                ViewBag.ErrorType = exception.GetType().Name;
+            }
+
+            return View();
+
+
         }
     }
 }

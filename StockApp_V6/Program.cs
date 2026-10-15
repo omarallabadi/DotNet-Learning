@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Serilog;
+using StockApp_V6.Middleware;
 using StockApp_V6.Models;
 using StockApp_V6.Repositories;
 using StockApp_V6.RepositoriesContracts;
@@ -30,6 +31,29 @@ namespace StockApp_V6
 
 
             var app = builder.Build();
+
+
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
+            else
+            {
+                app.UseExceptionHandler("/Trade/Error");
+
+                app.UseExceptionHandlingMiddleware();
+
+            }
+       
+            
+
+
+
+
+
+
+
+
             app.UseSerilogRequestLogging();
 
             Rotativa.AspNetCore.RotativaConfiguration.Setup(app.Environment.WebRootPath, wkhtmltopdfRelativePath: "Rotativa");

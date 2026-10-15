@@ -77,7 +77,7 @@ namespace StockTest
             List<BuyOrderResponse> buyOrders = _fixture.Create<List<BuyOrderResponse>>();
             List<SellOrderResponse> sellOrders = _fixture.Create<List<SellOrderResponse>>();
 
-            TradeController tradeController = new TradeController(_myService, _stocksService, Options.Create(new TradingOptions { DefaultOrderQuantity = 10 }));
+            TradeController tradeController = new TradeController(_myService, _stocksService, Options.Create(new TradingOptions { DefaultOrderQuantity = 10 }),_logger);
             _StocksServiceMock.Setup(repo => repo.GetBuyOrders()).ReturnsAsync(buyOrders);
             _StocksServiceMock.Setup(repo => repo.GetSellOrders()).ReturnsAsync(sellOrders);
 
