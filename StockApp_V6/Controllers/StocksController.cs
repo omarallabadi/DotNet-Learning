@@ -16,6 +16,7 @@ namespace StockApp_V6.Controllers
         private readonly IFinnhubService _myService;
         private readonly IConfiguration _configuration;
         private readonly TradingOptions _options;
+        private readonly ILogger<StocksController> _logger;
 
         public StocksController(IFinnhubService myService, IOptions<TradingOptions> options)
         {

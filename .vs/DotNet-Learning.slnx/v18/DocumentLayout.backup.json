@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stocktest\\tradecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\tradecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stocktest\\servicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\servicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stocktest\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,28 +39,8 @@
       "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stocktest\\tradecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\tradecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\repositories\\finnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\services\\stockservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|solutionrelative:stockapp_v6\\services\\stockservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stocktest\\servicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{136B849F-61AC-409E-A6BC-AFBCBA399BE5}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\servicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F4D31A3-C62C-687B-5595-8E5B904873CB}|StockApp_V6\\StockApp_V6.csproj|c:\\users\\omar\\desktop\\new folder (6)\\dotnet-learning\\stockapp_v6\\dto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -269,258 +269,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\appsettings.json",
-              "RelativeDocumentMoniker": "StockApp_V6\\appsettings.json",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\appsettings.json",
-              "RelativeToolTip": "StockApp_V6\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-14T21:14:06.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StockControllerIntegrationTest.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\StockControllerIntegrationTest.cs",
-              "RelativeDocumentMoniker": "StockTest\\StockControllerIntegrationTest.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\StockControllerIntegrationTest.cs",
-              "RelativeToolTip": "StockTest\\StockControllerIntegrationTest.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwC0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T20:59:11.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "StocksController.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Controllers\\StocksController.cs",
-              "RelativeDocumentMoniker": "StockApp_V6\\Controllers\\StocksController.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Controllers\\StocksController.cs",
-              "RelativeToolTip": "StockApp_V6\\Controllers\\StocksController.cs",
-              "ViewState": "AgIAABAAAAAA0czMzAwzwDAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T19:24:34.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Trade\\Index.cshtml",
-              "RelativeDocumentMoniker": "StockApp_V6\\Views\\Trade\\Index.cshtml",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Trade\\Index.cshtml",
-              "RelativeToolTip": "StockApp_V6\\Views\\Trade\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-02T10:20:20.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomWebApplicationFactory.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\CustomWebApplicationFactory.cs",
-              "RelativeDocumentMoniker": "StockTest\\CustomWebApplicationFactory.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\CustomWebApplicationFactory.cs*",
-              "RelativeToolTip": "StockTest\\CustomWebApplicationFactory.cs*",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCQAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T20:47:15.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\appsettings.Development.json",
               "RelativeDocumentMoniker": "StockApp_V6\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\appsettings.Development.json",
               "RelativeToolTip": "StockApp_V6\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-10-02T07:55:08.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "StockApp_V6\\Controllers\\StocksController.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "StockApp_V6\\Controllers\\StocksController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:24:34.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "TradeController.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Controllers\\TradeController.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Controllers\\TradeController.cs",
               "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Controllers\\TradeController.cs",
               "RelativeToolTip": "StockApp_V6\\Controllers\\TradeController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHMAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-02T07:18:37.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "TradeControllerTest.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\TradeControllerTest.cs",
               "RelativeDocumentMoniker": "StockTest\\TradeControllerTest.cs",
               "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\TradeControllerTest.cs",
               "RelativeToolTip": "StockTest\\TradeControllerTest.cs",
-              "ViewState": "AgIAAPAAAAAAAAAAAAAswA4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAANoAAAAAAAAAAAAgwNMAAACmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T16:07:43.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FinnhubRepository.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Repositories\\FinnhubRepository.cs",
-              "RelativeDocumentMoniker": "StockApp_V6\\Repositories\\FinnhubRepository.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Repositories\\FinnhubRepository.cs",
-              "RelativeToolTip": "StockApp_V6\\Repositories\\FinnhubRepository.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAYwGgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-03T07:42:32.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StocksRepository.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Repositories\\StocksRepository.cs",
-              "RelativeDocumentMoniker": "StockApp_V6\\Repositories\\StocksRepository.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Repositories\\StocksRepository.cs",
-              "RelativeToolTip": "StockApp_V6\\Repositories\\StocksRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-03T07:42:49.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Program.cs",
-              "RelativeDocumentMoniker": "StockApp_V6\\Program.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Program.cs",
-              "RelativeToolTip": "StockApp_V6\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T07:34:08.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IFinnhubRepository.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\RepositoriesContracts\\IFinnhubRepository.cs",
-              "RelativeDocumentMoniker": "StockApp_V6\\RepositoriesContracts\\IFinnhubRepository.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\RepositoriesContracts\\IFinnhubRepository.cs",
-              "RelativeToolTip": "StockApp_V6\\RepositoriesContracts\\IFinnhubRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-03T07:35:53.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MyService.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Services\\MyService.cs",
-              "RelativeDocumentMoniker": "StockApp_V6\\Services\\MyService.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Services\\MyService.cs",
-              "RelativeToolTip": "StockApp_V6\\Services\\MyService.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAuwCMAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T07:33:22.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IFinnhubService.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\ServicesContracts\\IFinnhubService.cs",
-              "RelativeDocumentMoniker": "StockApp_V6\\ServicesContracts\\IFinnhubService.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\ServicesContracts\\IFinnhubService.cs",
-              "RelativeToolTip": "StockApp_V6\\ServicesContracts\\IFinnhubService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T07:33:39.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SelectedStockViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\ViewComponents\\SelectedStockViewComponent.cs",
-              "RelativeDocumentMoniker": "StockApp_V6\\ViewComponents\\SelectedStockViewComponent.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\ViewComponents\\SelectedStockViewComponent.cs",
-              "RelativeToolTip": "StockApp_V6\\ViewComponents\\SelectedStockViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T10:46:11.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Stock.cs",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Models\\Stock.cs",
-              "RelativeDocumentMoniker": "StockApp_V6\\Models\\Stock.cs",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Models\\Stock.cs",
-              "RelativeToolTip": "StockApp_V6\\Models\\Stock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T09:29:43.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Explore.cshtml",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Stocks\\Explore.cshtml",
-              "RelativeDocumentMoniker": "StockApp_V6\\Views\\Stocks\\Explore.cshtml",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Stocks\\Explore.cshtml",
-              "RelativeToolTip": "StockApp_V6\\Views\\Stocks\\Explore.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-02T08:10:59.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
-              "RelativeDocumentMoniker": "StockApp_V6\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
-              "RelativeToolTip": "StockApp_V6\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-02T10:51:24.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "OrdersPDF.cshtml",
-              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Trade\\OrdersPDF.cshtml",
-              "RelativeDocumentMoniker": "StockApp_V6\\Views\\Trade\\OrdersPDF.cshtml",
-              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Trade\\OrdersPDF.cshtml",
-              "RelativeToolTip": "StockApp_V6\\Views\\Trade\\OrdersPDF.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-14T19:22:27.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 2,
               "Title": "ServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\ServiceTest.cs",
               "RelativeDocumentMoniker": "StockTest\\ServiceTest.cs",
@@ -533,7 +338,189 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Program.cs",
+              "RelativeDocumentMoniker": "StockApp_V6\\Program.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Program.cs",
+              "RelativeToolTip": "StockApp_V6\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T07:34:08.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "StockTest\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "StockTest\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T20:47:15.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Trade\\Index.cshtml",
+              "RelativeDocumentMoniker": "StockApp_V6\\Views\\Trade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Trade\\Index.cshtml",
+              "RelativeToolTip": "StockApp_V6\\Views\\Trade\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T10:20:20.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockControllerIntegrationTest.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\StockControllerIntegrationTest.cs",
+              "RelativeDocumentMoniker": "StockTest\\StockControllerIntegrationTest.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockTest\\StockControllerIntegrationTest.cs",
+              "RelativeToolTip": "StockTest\\StockControllerIntegrationTest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T20:59:11.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\appsettings.json",
+              "RelativeDocumentMoniker": "StockApp_V6\\appsettings.json",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\appsettings.json",
+              "RelativeToolTip": "StockApp_V6\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-14T21:14:06.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FinnhubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Repositories\\FinnhubRepository.cs",
+              "RelativeDocumentMoniker": "StockApp_V6\\Repositories\\FinnhubRepository.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Repositories\\FinnhubRepository.cs",
+              "RelativeToolTip": "StockApp_V6\\Repositories\\FinnhubRepository.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAYwGgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:42:32.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StocksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Repositories\\StocksRepository.cs",
+              "RelativeDocumentMoniker": "StockApp_V6\\Repositories\\StocksRepository.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Repositories\\StocksRepository.cs",
+              "RelativeToolTip": "StockApp_V6\\Repositories\\StocksRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:42:49.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IFinnhubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\RepositoriesContracts\\IFinnhubRepository.cs",
+              "RelativeDocumentMoniker": "StockApp_V6\\RepositoriesContracts\\IFinnhubRepository.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\RepositoriesContracts\\IFinnhubRepository.cs",
+              "RelativeToolTip": "StockApp_V6\\RepositoriesContracts\\IFinnhubRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:35:53.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyService.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Services\\MyService.cs",
+              "RelativeDocumentMoniker": "StockApp_V6\\Services\\MyService.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Services\\MyService.cs",
+              "RelativeToolTip": "StockApp_V6\\Services\\MyService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T07:33:22.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\ServicesContracts\\IFinnhubService.cs",
+              "RelativeDocumentMoniker": "StockApp_V6\\ServicesContracts\\IFinnhubService.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\ServicesContracts\\IFinnhubService.cs",
+              "RelativeToolTip": "StockApp_V6\\ServicesContracts\\IFinnhubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T07:33:39.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SelectedStockViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\ViewComponents\\SelectedStockViewComponent.cs",
+              "RelativeDocumentMoniker": "StockApp_V6\\ViewComponents\\SelectedStockViewComponent.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\ViewComponents\\SelectedStockViewComponent.cs",
+              "RelativeToolTip": "StockApp_V6\\ViewComponents\\SelectedStockViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T10:46:11.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "StockApp_V6\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Models\\Stock.cs",
+              "RelativeToolTip": "StockApp_V6\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T09:29:43.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Explore.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Stocks\\Explore.cshtml",
+              "RelativeDocumentMoniker": "StockApp_V6\\Views\\Stocks\\Explore.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Stocks\\Explore.cshtml",
+              "RelativeToolTip": "StockApp_V6\\Views\\Stocks\\Explore.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T08:10:59.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "RelativeDocumentMoniker": "StockApp_V6\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "RelativeToolTip": "StockApp_V6\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T10:51:24.467Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "OrdersPDF.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Trade\\OrdersPDF.cshtml",
+              "RelativeDocumentMoniker": "StockApp_V6\\Views\\Trade\\OrdersPDF.cshtml",
+              "ToolTip": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Views\\Trade\\OrdersPDF.cshtml",
+              "RelativeToolTip": "StockApp_V6\\Views\\Trade\\OrdersPDF.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T19:22:27.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "StockServices.cs",
               "DocumentMoniker": "C:\\Users\\omar\\Desktop\\New folder (6)\\DotNet-Learning\\StockApp_V6\\Services\\StockServices.cs",
               "RelativeDocumentMoniker": "StockApp_V6\\Services\\StockServices.cs",
@@ -541,8 +528,7 @@
               "RelativeToolTip": "StockApp_V6\\Services\\StockServices.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAIwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T07:33:28.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-02T07:33:28.511Z"
             },
             {
               "$type": "Document",
@@ -554,8 +540,7 @@
               "RelativeToolTip": "StockApp_V6\\DTO\\BuyOrderResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T07:26:09.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-02T07:26:09.355Z"
             },
             {
               "$type": "Document",
@@ -567,8 +552,7 @@
               "RelativeToolTip": "StockApp_V6\\DTO\\BuyOrderRequest.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T07:18:49.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-02T07:18:49.855Z"
             },
             {
               "$type": "Document",
@@ -580,8 +564,7 @@
               "RelativeToolTip": "StockApp_V3\\Services\\StockServices.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAwwAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T09:25:08.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T09:25:08.381Z"
             },
             {
               "$type": "Document",

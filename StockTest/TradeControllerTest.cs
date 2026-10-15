@@ -1,8 +1,12 @@
 ﻿using AutoFixture;
 using FluentAssertions;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Moq;
+using Rotativa.AspNetCore;
 using StockApp_V6.Controllers;
 using StockApp_V6.DTO;
 using StockApp_V6.Models;
@@ -10,9 +14,6 @@ using StockApp_V6.ServicesContracts;
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Microsoft.AspNetCore.Mvc.ModelBinding;
-using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
-using Rotativa.AspNetCore;
 
 namespace StockTest
 {
@@ -35,6 +36,8 @@ namespace StockTest
         private readonly Mock<IFinnhubService> _FunhubServiceMock;
         private readonly Mock<IStocksService> _StocksServiceMock;
         private readonly IFixture _fixture;
+        private readonly Mock<ILogger<TradeController>> _loggerMock;
+        private readonly ILogger<TradeController> _logger;
         public TradeControllerTest()
         {
             _FunhubServiceMock = new Mock<IFinnhubService>();
@@ -42,7 +45,8 @@ namespace StockTest
             _stocksService= _StocksServiceMock.Object;
             _myService = _FunhubServiceMock.Object;
             _fixture = new Fixture();
-
+            _loggerMock = new Mock<ILogger<TradeController>>();
+            _logger = _loggerMock.Object;
 
         }
         [Fact]
@@ -50,7 +54,7 @@ namespace StockTest
         public async Task Index_ShouldReturnStock()
         {
 
-            TradeController tradeController = new TradeController(_myService, _stocksService, Options.Create(new TradingOptions { DefaultOrderQuantity = 10 }));
+            TradeController tradeController = new TradeController(_myService, _stocksService, Options.Create(new TradingOptions { DefaultOrderQuantity = 10 }),_logger);
             _FunhubServiceMock.Setup(repo => repo.getStockPriceQuote("MSFT")).ReturnsAsync(new Dictionary<string, object> { { "c", 150 } });
             _FunhubServiceMock.Setup(repo => repo.GetCompanyProfile("MSFT")).ReturnsAsync(new Dictionary<string, object> { { "name", "Microsoft" } });
             IActionResult result = await tradeController.Index("MSFT");
@@ -103,7 +107,7 @@ namespace StockTest
 
 
 
-            TradeController tradeController = new TradeController(_myService, _stocksService, Options.Create(new TradingOptions { DefaultOrderQuantity = 10 }));
+            TradeController tradeController = new TradeController(_myService, _stocksService, Options.Create(new TradingOptions { DefaultOrderQuantity = 10 }),_logger);
             tradeController.ObjectValidator = new NullObjectModelValidator();
             _StocksServiceMock.Setup(repo => repo.CreateBuyOrder(buyOrderRequest)).ReturnsAsync(buyOrderResponse);
 
@@ -157,7 +161,7 @@ namespace StockTest
 
 
 
-            TradeController tradeController = new TradeController(_myService, _stocksService, Options.Create(new TradingOptions { DefaultOrderQuantity = 10 }));
+            TradeController tradeController = new TradeController(_myService, _stocksService, Options.Create(new TradingOptions { DefaultOrderQuantity = 10 }),_logger);
             tradeController.ObjectValidator = new NullObjectModelValidator();
             _StocksServiceMock.Setup(repo => repo.CreateSellOrder(sellOrderRequest)).ReturnsAsync(sellOrderResponse);
 
@@ -205,7 +209,7 @@ namespace StockTest
             List<BuyOrderResponse> buyOrders = _fixture.Create<List<BuyOrderResponse>>();
             List<SellOrderResponse> sellOrders = _fixture.Create<List<SellOrderResponse>>();
 
-            TradeController tradeController = new TradeController(_myService, _stocksService, Options.Create(new TradingOptions { DefaultOrderQuantity = 10 }));
+            TradeController tradeController = new TradeController(_myService, _stocksService, Options.Create(new TradingOptions { DefaultOrderQuantity = 10 }),_logger);
             _StocksServiceMock.Setup(repo => repo.GetBuyOrders()).ReturnsAsync(buyOrders);
             _StocksServiceMock.Setup(repo => repo.GetSellOrders()).ReturnsAsync(sellOrders);
 

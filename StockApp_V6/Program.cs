@@ -1,9 +1,10 @@
+using Microsoft.EntityFrameworkCore;
+using Serilog;
 using StockApp_V6.Models;
+using StockApp_V6.Repositories;
+using StockApp_V6.RepositoriesContracts;
 using StockApp_V6.Services;
 using StockApp_V6.ServicesContracts;
-using Microsoft.EntityFrameworkCore;
-using StockApp_V6.RepositoriesContracts;
-using StockApp_V6.Repositories;
 
 namespace StockApp_V6
 {
@@ -20,8 +21,16 @@ namespace StockApp_V6
             builder.Services.AddScoped<IStocksRepository, StocksRepository>();
             builder.Services.AddScoped<IFinnhubRepository, FinnhubRepository>();
             builder.Services.AddDbContext<StockMarketDbContext>(options=>options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+            builder.Host.UseSerilog((context, services, loggerConfiguration) =>
+            {
+                loggerConfiguration
+                    .ReadFrom.Configuration(context.Configuration)
+                    .ReadFrom.Services(services);
+            });
+
 
             var app = builder.Build();
+            app.UseSerilogRequestLogging();
 
             Rotativa.AspNetCore.RotativaConfiguration.Setup(app.Environment.WebRootPath, wkhtmltopdfRelativePath: "Rotativa");
 
